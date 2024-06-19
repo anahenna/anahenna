@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">🌱 Currently Learning: JavaScript, Python, React, Node.js, and more.<br>🚀 Goals: To become a proficient full-stack developer, building robust and scalable web applications.<br>🌐 Interests: Problem-solving, debugging, and collaborating on projects.</p>
+<p align="left"> <h4>🌱 Currently Learning:</h4> JavaScript, Python, React, Node.js, and more.<br>🚀 Goals: To become a proficient full-stack developer, building robust and scalable web applications.<br>🌐 Interests: Problem-solving, debugging, and collaborating on projects.</p>
 
 ###
 
