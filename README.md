@@ -1,4 +1,4 @@
-![Descripción de la imagen](anahenna/images/banner04.jpg)
+![]/images/banner04.jpg)
 
 ###
 
