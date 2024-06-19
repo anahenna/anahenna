@@ -64,13 +64,6 @@
   </a>
 </div>
 
-###
 
 
-
-###
-
-<img src="https://raw.githubusercontent.com/anahenna/anahenna/output/snake.svg" alt="Snake animation" />
-
-###
 
