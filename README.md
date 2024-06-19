@@ -1,3 +1,7 @@
+![Descripción de la imagen](anahenna/images/banner04.jpg)
+
+###
+
 <h1 align="left">Hi, I'm Anahenna!  👋</h1>
 
 ###
