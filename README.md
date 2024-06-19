@@ -1,4 +1,4 @@
-![](/images/banner04.jpg)
+![](/images/banner07.gif)
 
 ###
 
