@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm a full-stack developer trainee with a passion for learning and exploring the vast world of web development. This is just the beginning of my education, as I am eager to learn about many coding languages and technologies. I love diving into new technologies and continuously enhancing my skills. My journey in coding is driven by curiosity and a desire to build innovative solutions. Feel free to check out my projects and connect with me!</p>
+<p align="left">I'm a full-stack developer with a passion for learning and exploring the vast world of web development. This is just the beginning of my education, as I am eager to learn about many coding languages and technologies. I love diving into new technologies and continuously enhancing my skills. My journey in coding is driven by curiosity and a desire to build innovative solutions. Feel free to check out my projects and connect with me!</p>
 
 ###
 
